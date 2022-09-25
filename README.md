@@ -17,6 +17,8 @@
 	<a href="https://twitter.com/TheJayminSoni" target="blank"><img src="https://img.shields.io/twitter/follow/TheJayminSoni?logo=twitter&style=for-the-badge" alt="TheJayminSoni" /></a> 
 </p>
 
+
+<!-- About Work and Profile -->
 - 🔭 I’m currently working on [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.progressio.tictactoe&hl=en)
 
 - 🌱 I’m currently learning **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
@@ -41,8 +43,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/<codepen username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="<codepen username>" height="30" width="40" /></a>
-<a href="https://dev.to/<dev.to username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="<dev.to username>" height="30" width="40" /></a>
+<!-- CodePen - For HTML/CSS/JavaScript -->	
+<a href="https://codepen.io/jayminbsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jayminbsoni" height="30" width="40" /></a> CodePen.io</br>
+<!-- Dev -->
+<a href="https://dev.to/jayminbsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="<dev.to username>" height="30" width="40" />Dev.to</a></br>
+
 <a href="https://twitter.com/<twitter username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="<twitter username>" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/<linkedin username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<linkedin username>" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/<stackoverflow id>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="<stackoverflow id>" height="30" width="40" /></a>
