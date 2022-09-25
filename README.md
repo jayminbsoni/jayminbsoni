@@ -12,28 +12,30 @@
 </p> 
 ![Profile views](https://gpvc.arturio.dev/jayminbsoni) -->
 
-<img align="right" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/developer.gif" alt="developer" width="500" height="350"/> 
+<!-- Developer GIF -->
+<p align="center">
+	<img src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/developer.gif" alt="developer" width="500" height="350"/>
+</p>
 
 <!-- Profile Trophy -->
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula">
 		<img src="https://github-profile-trophy.vercel.app/?username=jayminbsoni" alt="jayminbsoni" />
 	</a>
-</p>
+</p> -->
 
 <!-- Social Media -->
-<p align="center">
-	<!-- Twitter -->
+<!-- <p align="center">
 	<a href="https://twitter.com/TheJayminSoni" target="blank">
 		<img src="https://img.shields.io/twitter/follow/TheJayminSoni?logo=twitter&style=for-the-badge" alt="TheJayminSoni" />
 	</a> 
-</p>
+</p> -->
 
 <!-- About Work and Profile -->
 <!-- - 🔭 I’m currently working on [<PROJECT NAME>](<PROJECT LINK>) -->
-- 😄 Pronouns **He/Him**
+- 😄 Pronouns: **He/Him**
 
-- 🌱 I’m currently learning **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
+- 🌱 I’m currently learning: **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
 
 <!-- - 👯 I’m looking to collaborate on [<PROJECT NAME>](<PROJECT LINK>) -->
 
@@ -43,13 +45,13 @@
 
 <!-- - 📝 I regularly write articles on [<MEDIUM LINK>](<MEDIUM LINK>) -->
 
-- 💬 Ask me about **Android[Java/Kotlin/Jetpack Compose], Unity [C#]]**
+- 💬 Ask me about: **Android[Java/Kotlin/Jetpack Compose], Unity [C#]]**
 
-- 📫 How to reach me **jayminbsoni94@gmail.com**
+- 📫 How to reach me: **jayminbsoni94@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cUdDEJnxAmFCXPgeA5nSjTPEiNJXm079/view?usp=sharing), [Work Portfolio](https://shorturl.at/zJTY0)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1cUdDEJnxAmFCXPgeA5nSjTPEiNJXm079/view?usp=sharing), [Work Portfolio](https://shorturl.at/zJTY0)
 
-- ⚡ Fun fact **I play [Rubik's Cube](https://rubiks.com/) at free time**
+<!-- - ⚡ Fun fact: **I play [Rubik's Cube](https://rubiks.com/) at free time** -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -58,20 +60,26 @@
 ### **_Connect with me_**
 <p align="left">
 	<!-- https://codepen.io/ -->	
-	<a href="https://codepen.io/jayminbsoni">
+	<!-- <a href="https://codepen.io/jayminbsoni">
 		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/codepen.svg" alt="codepen" height="30" width="40" />codepen.io
-	</a></br></br>
+	</a></br></br> -->
 	<!-- https://dev.to/ -->
-	<a href="https://dev.to/jayminbsoni">
+	<!-- <a href="https://dev.to/jayminbsoni">
 		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/devto.svg" alt="devto>" height="30" width="40" />dev.to
-	</a></br></br>
+	</a></br></br> -->
 	<!-- https://twitter.com/ -->
-	<a href="https://twitter.com/TheJayminSoni">
+	<!-- <a href="https://twitter.com/TheJayminSoni">
 		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/twitter.svg" alt="twitter" height="30" width="40" />twitter.com
+	</a></br></br> -->
+	<!-- https://linkedin.com/ -->
+	<a href="https://linkedin.com/in/jaymin-soni-87886312a/">
+		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/linkedin.svg" alt="linkedin" height="30" width="40" />linkedin.com
 	</a></br></br>
-	<a href="https://linkedin.com/in/<linkedin username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<linkedin username>" height="30" width="40" /></a>
-	<a href="https://stackoverflow.com/users/<stackoverflow id>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="<stackoverflow id>" height="30" width="40" /></a>
-	<a href="https://codesandbox.com/<codesandbox username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="<codesandbox username>" height="30" width="40" /></a>
+	<!-- https://stackoverflow.com/ -->
+	<a href="https://stackoverflow.com/users/7057756/jaymin-soni">
+		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/stack_overflow.svg" alt="stackoverflow" height="30" width="40" />stackoverflow.com
+	</a></br></br>
+	<!-- <a href="https://codesandbox.com/<codesandbox username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="<codesandbox username>" height="30" width="40" /></a>
 	<a href="https://kaggle.com/<kaggle username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="<kaggle username>" height="30" width="40" /></a>
 	<a href="https://fb.com/<facebook username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="<facebook username>" height="30" width="40" /></a>
 	<a href="https://instagram.com/<instagram username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="<instagram username>" height="30" width="40" /></a>
@@ -88,10 +96,10 @@
 	<a href="https://auth.geeksforgeeks.org/user/<ffg <username>/profile>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ffg <username>/profile>" height="30" width="40" /></a>
 	<a href="https://www.topcoder.com/members/<topcoder username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="<topcoder username>" height="30" width="40" /></a>
 	<a href="https://discord.gg/<discord invite (only code)>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<discord invite (only code)>" height="30" width="40" /></a>
-	<a href="/<rss feed url>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="<rss feed url>" height="30" width="40" /></a>
+	<a href="/<rss feed url>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="<rss feed url>" height="30" width="40" /></a> -->
 </p>
 
-### **_Languages and Tools_**
+<!-- ### **_Languages and Tools_**
 <p align="left">
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -130,28 +138,25 @@
 		<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 	</a>
 </p>
+ -->
 
-
-### **_Support_**
+<!-- ### **_Support_**
 <p><a href="https://www.buymeacoffee.com/<buymecofee username>"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="<buymecofee username>" /></a><a href="https://ko-fi.com/<ko-fi username>"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="<ko-fi username>" /></a></p><br><br>
-
+ -->
 ### **_States_**
 [![Jaymin Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayminbsoni&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/jayminbsoni/jayminbsoni)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminbsoni&langs_count=8)](https://github.com/jayminbsoni/jayminbsoni)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminbsoni&langs_count=8)](https://github.com/jayminbsoni/jayminbsoni) -->
 
-[![Jaymin Soni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
+<!-- [![Jaymin Soni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayminbsoni&repo=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayminbsoni&repo=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
 
 
 <!-- Old Read Me File
-
-- Pronouns: He/Him
 - Google Developers: https://g.dev/jayminsoni
-- LinkedIn: https://www.linkedin.com/in/jaymin-soni-87886312a
 - Stackoverflow: https://stackoverflow.com/users/7057756
 - Github: https://github.com/jayminbsoni
 
