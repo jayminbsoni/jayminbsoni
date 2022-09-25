@@ -1,32 +1,41 @@
+<!-- Introduction Title -->
 <h1 align="center">Hi 👋, I'm Jaymin Soni</h1>
-
+<!-- Introduction Subtitle -->
 <h3 align="center">A passionate mobile application and game developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayminbsoni&label=Profile%20views&color=0e75b6&style=flat" alt="jayminbsoni" /> </p>
+<!-- Profile Views -->
+<p align="center"> <img src="https://gpvc.arturio.dev/jayminbsoni" alt="jayminbsoni" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayminbsoni&label=Profile%20views&color=0e75b6&style=flat" alt="jayminbsoni" /> </p> -->
+<!-- ![Profile views](https://gpvc.arturio.dev/jayminbsoni) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayminbsoni" alt="jayminbsoni" /></a> </p>
+<!-- Profile Trophy -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=jayminbsoni" alt="jayminbsoni" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/<twitter username>" target="blank"><img src="https://img.shields.io/twitter/follow/<twitter username>?logo=twitter&style=for-the-badge" alt="<twitter username>" /></a> </p>
+<!-- Social Media -->
+<p align="center">
+	<!-- Twitter -->
+	<a href="https://twitter.com/TheJayminSoni" target="blank"><img src="https://img.shields.io/twitter/follow/TheJayminSoni?logo=twitter&style=for-the-badge" alt="TheJayminSoni" /></a> 
+</p>
 
-- 🔭 I’m currently working on [<PROJECT NAME>](<PROJECT LINK>)
+- 🔭 I’m currently working on [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.progressio.tictactoe&hl=en)
 
-- 🌱 I’m currently learning **Flutter [Dart]**
+- 🌱 I’m currently learning **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
 
-- 👯 I’m looking to collaborate on [<PROJECT NAME>](<PROJECT LINK>)
+<!-- - 👯 I’m looking to collaborate on [<PROJECT NAME>](<PROJECT LINK>) -->
 
-- 🤝 I’m looking for help with [<PROJECT NAME>](<PROJECT LINK>)
+<!-- - 🤝 I’m looking for help with [<PROJECT NAME>](<PROJECT LINK>) -->
 
-- 👨‍💻 All of my projects are available at [<WEBSITE LINK>](<WEBSITE LINK>)
+<!-- - 👨‍💻 All of my projects are available at [<WEBSITE LINK>](<WEBSITE LINK>) -->
 
-- 📝 I regularly write articles on [<MEDIUM LINK>](<MEDIUM LINK>)
+<!-- - 📝 I regularly write articles on [<MEDIUM LINK>](<MEDIUM LINK>) -->
 
 - 💬 Ask me about **Android[Java/Kotlin/Jetpack Compose], Unity [C#]]**
 
 - 📫 How to reach me **jayminbsoni94@gmail.com**
 
-- 📄 Know about my experiences [<CV LINK>](<CV LINK>)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cUdDEJnxAmFCXPgeA5nSjTPEiNJXm079/view?usp=sharing), [Work Portfolio](https://shorturl.at/zJTY0)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
