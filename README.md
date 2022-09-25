@@ -26,7 +26,6 @@
 
 <!-- Social Media -->
 <!-- <p align="center">
-	<!-- Twitter -->
 	<a href="https://twitter.com/TheJayminSoni" target="blank">
 		<img src="https://img.shields.io/twitter/follow/TheJayminSoni?logo=twitter&style=for-the-badge" alt="TheJayminSoni" />
 	</a> 
@@ -34,9 +33,9 @@
 
 <!-- About Work and Profile -->
 <!-- - 🔭 I’m currently working on [<PROJECT NAME>](<PROJECT LINK>) -->
-- 😄 Pronouns **He/Him**
+- 😄 Pronouns: **He/Him**
 
-- 🌱 I’m currently learning **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
+- 🌱 I’m currently learning: **Android [Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)**
 
 <!-- - 👯 I’m looking to collaborate on [<PROJECT NAME>](<PROJECT LINK>) -->
 
@@ -46,13 +45,13 @@
 
 <!-- - 📝 I regularly write articles on [<MEDIUM LINK>](<MEDIUM LINK>) -->
 
-- 💬 Ask me about **Android[Java/Kotlin/Jetpack Compose], Unity [C#]]**
+- 💬 Ask me about: **Android[Java/Kotlin/Jetpack Compose], Unity [C#]]**
 
-- 📫 How to reach me **jayminbsoni94@gmail.com**
+- 📫 How to reach me: **jayminbsoni94@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cUdDEJnxAmFCXPgeA5nSjTPEiNJXm079/view?usp=sharing), [Work Portfolio](https://shorturl.at/zJTY0)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1cUdDEJnxAmFCXPgeA5nSjTPEiNJXm079/view?usp=sharing), [Work Portfolio](https://shorturl.at/zJTY0)
 
-- ⚡ Fun fact **I play [Rubik's Cube](https://rubiks.com/) at free time**
+<!-- - ⚡ Fun fact: **I play [Rubik's Cube](https://rubiks.com/) at free time** -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
