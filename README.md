@@ -59,10 +59,6 @@
 
 ### **_Connect with me_**
 <p align="left">
-	<!-- https://codepen.io/ -->	
-	<!-- <a href="https://codepen.io/jayminbsoni">
-		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/codepen.svg" alt="codepen" height="30" width="40" />codepen.io
-	</a></br></br> -->
 	<!-- https://dev.to/ -->
 	<!-- <a href="https://dev.to/jayminbsoni">
 		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/devto.svg" alt="devto>" height="30" width="40" />dev.to
@@ -79,10 +75,11 @@
 	<a href="https://stackoverflow.com/users/7057756/jaymin-soni">
 		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/stack_overflow.svg" alt="stackoverflow" height="30" width="40" />stackoverflow.com
 	</a></br></br>
-	<!-- <a href="https://codesandbox.com/<codesandbox username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="<codesandbox username>" height="30" width="40" /></a>
-	<a href="https://kaggle.com/<kaggle username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="<kaggle username>" height="30" width="40" /></a>
-	<a href="https://fb.com/<facebook username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="<facebook username>" height="30" width="40" /></a>
-	<a href="https://instagram.com/<instagram username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="<instagram username>" height="30" width="40" /></a>
+	<!-- https://www.facebook.com/ -->
+	<!-- <a href="https://www.facebook.com/jayminbsoni">
+		<img align="center" src="https://github.com/jayminbsoni/jayminbsoni/blob/main/graphics/facebook.svg" alt="facebook" height="30" width="40" />facebook.com
+	</a></br></br> -->
+	<!-- <a href="https://instagram.com/<instagram username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="<instagram username>" height="30" width="40" /></a>
 	<a href="https://dribbble.com/<dribble username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="<dribble username>" height="30" width="40" /></a>
 	<a href="https://www.behance.net/<behance username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="<behance username>" height="30" width="40" /></a>
 	<a href="https://hashnode.com/<hashnode username with @>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="<hashnode username with @>" height="30" width="40" /></a>
@@ -97,6 +94,8 @@
 	<a href="https://www.topcoder.com/members/<topcoder username>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="<topcoder username>" height="30" width="40" /></a>
 	<a href="https://discord.gg/<discord invite (only code)>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<discord invite (only code)>" height="30" width="40" /></a>
 	<a href="/<rss feed url>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="<rss feed url>" height="30" width="40" /></a> -->
+		<!-- Add Github Profile -->
+		<!-- Add Google Developer Profile -->
 </p>
 
 <!-- ### **_Languages and Tools_**
@@ -146,18 +145,16 @@
 ### **_States_**
 [![Jaymin Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayminbsoni&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/jayminbsoni/jayminbsoni)
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminbsoni&langs_count=8)](https://github.com/jayminbsoni/jayminbsoni) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminbsoni&langs_count=8)](https://github.com/jayminbsoni/jayminbsoni)
 
-<!-- [![Jaymin Soni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayminbsoni&repo=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
+[![Jaymin Soni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayminbsoni&repo=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
 
 <!-- Old Read Me File
 - Google Developers: https://g.dev/jayminsoni
-- Stackoverflow: https://stackoverflow.com/users/7057756
 - Github: https://github.com/jayminbsoni
 
 
