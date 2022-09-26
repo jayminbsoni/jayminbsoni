@@ -147,8 +147,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayminbsoni&langs_count=8)](https://github.com/jayminbsoni/jayminbsoni)
 
-[![Jaymin Soni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
-
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayminbsoni&repo=jayminbsoni)](https://github.com/jayminbsoni/jayminbsoni) -->
